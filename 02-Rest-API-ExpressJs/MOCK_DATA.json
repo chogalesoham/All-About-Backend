@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "first_name": "Kissie",
+    "last_name": "Sutherel",
+    "email": "ksutherel0@gizmodo.com",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Sascha",
+    "last_name": "Kerrod",
+    "email": "skerrod1@fastcompany.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Blondie",
+    "last_name": "Guilloud",
+    "email": "bguilloud2@accuweather.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Bride",
+    "last_name": "Rochell",
+    "email": "brochell3@cnn.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Corrie",
+    "last_name": "Stitson",
+    "email": "cstitson4@ifeng.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Sahil",
+    "last_name": "zore",
+    "email": "sahil@gmail.com",
+    "gender": "mail"
+  }
+]

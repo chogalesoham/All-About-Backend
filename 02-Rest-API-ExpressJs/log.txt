@@ -1,0 +1,5 @@
+
+ 1740070326804: ::1 : /api/users : GET
+ 1740070341399: ::1 : /api/users/3 : GET
+ 1740070360650: ::1 : /api/users : POST
+ 1740070406214: ::1 : /api/users : POST
